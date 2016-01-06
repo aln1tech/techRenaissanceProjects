@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="/ex-jars/log/commons-configuration-1.7.jar"/>
+	<classpathentry kind="lib" path="/ex-jars/log/apache-commons-lang.jar"/>
+	<classpathentry kind="lib" path="/ex-jars/log/org-apache-commons-logging.jar"/>
+	<classpathentry kind="lib" path="/ex-jars/log/org.apache.commons.collections.jar"/>
+	<classpathentry kind="lib" path="/ex-jars/log/log4j.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

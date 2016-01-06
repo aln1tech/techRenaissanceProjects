@@ -1,0 +1,350 @@
+2015-10-16 16:04:55,412 [Worker-6] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' /home/logeswaran/workspace-luna/workout/HelloWorld/pom.xml
+2015-10-16 16:04:56,608 [Worker-6] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.programcreek:HelloWorld:0.0.1-SNAPSHOT @ /home/logeswaran/workspace-luna/workout/HelloWorld/pom.xml.
+2015-10-16 16:04:58,594 [Worker-6] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /HelloWorld/src/main/java
+2015-10-16 16:04:58,594 [Worker-6] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /HelloWorld/src/main/resources
+2015-10-16 16:04:58,595 [Worker-6] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /HelloWorld/src/test/java
+2015-10-16 16:04:59,087 [Worker-0] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.programcreek:HelloWorld:0.0.1-SNAPSHOT @ /home/logeswaran/workspace-luna/workout/HelloWorld/pom.xml.
+2015-10-16 16:05:01,619 [Worker-6] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 6 sec
+2015-10-16 16:05:06,928 [Worker-2] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.programcreek:HelloWorld:0.0.1-SNAPSHOT @ /home/logeswaran/workspace-luna/workout/HelloWorld/pom.xml.
+2015-10-16 16:05:07,013 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-10-16 16:05:07,083 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-10-16 16:05:07,085 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-10-16 16:05:07,085 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/logeswaran/workspace-luna/workout/HelloWorld/src/test/resources
+2015-10-16 16:05:16,014 [main] INFO  o.a.d.a.ldap.model.ldif.LdifReader - No version information : assuming version: 1
+2015-10-16 16:05:16,037 [main] ERROR o.a.d.a.ldap.model.ldif.LdifReader - ERR_12016_DN_EXPECTED A ldif entry must start with a DN, at line 1
+2015-10-16 16:09:46,179 [Worker-12] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.programcreek:HelloWorld:0.0.1-SNAPSHOT @ /home/logeswaran/workspace-luna/workout/HelloWorld/pom.xml.
+2015-10-16 16:09:46,580 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-10-16 16:09:46,582 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-10-16 16:09:46,583 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-10-16 16:09:46,583 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/logeswaran/workspace-luna/workout/HelloWorld/src/test/resources
+2015-10-16 16:09:46,584 [Worker-12] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of HelloWorld
+2015-10-16 16:09:46,585 [Worker-12] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for HelloWorld
+2015-10-16 16:09:46,591 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-10-16 16:09:47,822 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-10-16 16:09:47,823 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-10-16 16:09:47,824 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-10-16 16:09:47,824 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/logeswaran/workspace-luna/workout/HelloWorld/src/test/resources
+2015-10-16 16:12:20,177 [Worker-18] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-10-16 16:12:20,178 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-10-16 16:12:20,179 [Worker-18] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-10-16 16:12:20,179 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/logeswaran/workspace-luna/workout/HelloWorld/src/test/resources
+2015-10-16 16:13:09,279 [Worker-16] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-10-16 16:13:09,280 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-10-16 16:13:09,281 [Worker-16] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-10-16 16:13:09,281 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/logeswaran/workspace-luna/workout/HelloWorld/src/test/resources
+2015-10-16 16:13:18,374 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-10-16 16:13:18,374 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-10-16 16:13:18,375 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-10-16 16:13:18,375 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/logeswaran/workspace-luna/workout/HelloWorld/src/test/resources
+2015-10-16 16:13:44,056 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-10-16 16:13:44,058 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-10-16 16:13:44,059 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-10-16 16:13:44,059 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/logeswaran/workspace-luna/workout/HelloWorld/src/test/resources
+2015-10-16 16:14:09,309 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-10-16 16:14:09,309 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-10-16 16:14:09,317 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-10-16 16:14:09,317 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/logeswaran/workspace-luna/workout/HelloWorld/src/test/resources
+2015-10-16 16:14:16,448 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-10-16 16:14:16,449 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-10-16 16:14:16,451 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-10-16 16:14:16,451 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/logeswaran/workspace-luna/workout/HelloWorld/src/test/resources
+2015-10-16 16:14:27,429 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-10-16 16:14:27,430 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-10-16 16:14:27,431 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-10-16 16:14:27,432 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/logeswaran/workspace-luna/workout/HelloWorld/src/test/resources
+2015-10-16 16:15:25,676 [Worker-16] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-10-16 16:15:25,677 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-10-16 16:15:25,678 [Worker-16] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-10-16 16:15:25,678 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/logeswaran/workspace-luna/workout/HelloWorld/src/test/resources
+2015-10-16 16:16:20,419 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-10-16 16:16:20,420 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-10-16 16:16:20,423 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-10-16 16:16:20,423 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/logeswaran/workspace-luna/workout/HelloWorld/src/test/resources
+2015-10-16 16:16:23,556 [Worker-18] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-10-16 16:16:23,557 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-10-16 16:16:23,558 [Worker-18] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-10-16 16:16:23,558 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/logeswaran/workspace-luna/workout/HelloWorld/src/test/resources
+2015-10-16 16:16:40,256 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-10-16 16:16:40,256 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-10-16 16:16:40,258 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-10-16 16:16:40,258 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/logeswaran/workspace-luna/workout/HelloWorld/src/test/resources
+2015-10-16 16:16:47,808 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2015-10-16 16:16:54,197 [Worker-20] INFO  o.e.m.i.launch.MavenLaunchDelegate - /home/logeswaran/workspace-luna/workout/HelloWorld
+2015-10-16 16:16:54,197 [Worker-20] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B clean build
+2015-10-16 16:17:05,982 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2015-10-16 16:17:11,497 [Worker-12] INFO  o.e.m.i.launch.MavenLaunchDelegate - /home/logeswaran/workspace-luna/workout/HelloWorld
+2015-10-16 16:17:11,497 [Worker-12] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B clean install
+2015-10-16 16:17:19,132 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-10-16 16:17:19,135 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-10-16 16:17:19,136 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-10-16 16:17:19,136 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/logeswaran/workspace-luna/workout/HelloWorld/src/test/resources
+2015-10-16 16:21:13,993 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-10-16 16:21:13,993 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-10-16 16:21:13,996 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-10-16 16:21:13,997 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/logeswaran/workspace-luna/workout/HelloWorld/src/test/resources
+2015-10-16 16:21:31,433 [Worker-13] INFO  o.e.m.i.launch.MavenLaunchDelegate - /home/logeswaran/workspace-luna/workout/HelloWorld
+2015-10-16 16:21:31,433 [Worker-13] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B clean install
+2015-10-16 16:25:21,818 [Worker-22] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-10-16 16:25:21,818 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-10-16 16:25:21,819 [Worker-22] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-10-16 16:25:21,820 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/logeswaran/workspace-luna/workout/HelloWorld/src/test/resources
+2015-10-16 17:11:53,474 [pool-5-thread-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded file:///home/logeswaran/.m2/repository/org/apache/maven/archetypes/maven-archetype-quickstart/1.1/maven-archetype-quickstart-1.1.jar
+2015-10-16 17:11:53,588 [Worker-42] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' /home/logeswaran/workspace-luna/workout/logUtils/pom.xml
+2015-10-16 17:11:53,988 [Worker-42] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.mindtree.utility:logUtils:REL-1.0.0 @ /home/logeswaran/workspace-luna/workout/logUtils/pom.xml.
+2015-10-16 17:11:54,350 [Worker-42] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /logUtils/src/main/java
+2015-10-16 17:11:54,351 [Worker-42] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /logUtils/src/test/java
+2015-10-16 17:11:54,465 [Worker-42] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 0 sec
+2015-10-16 17:11:55,189 [Worker-42] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.mindtree.utility:logUtils:REL-1.0.0 @ /home/logeswaran/workspace-luna/workout/logUtils/pom.xml.
+2015-10-16 17:11:55,322 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-16 17:11:55,322 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/logeswaran/workspace-luna/workout/logUtils/src/main/resources
+2015-10-16 17:11:55,323 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-16 17:11:55,323 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/logeswaran/workspace-luna/workout/logUtils/src/test/resources
+2015-10-16 17:11:55,519 [Worker-42] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.mindtree.utility:logUtils:REL-1.0.0 @ /home/logeswaran/workspace-luna/workout/logUtils/pom.xml.
+2015-10-16 17:11:56,551 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-16 17:11:56,551 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/logeswaran/workspace-luna/workout/logUtils/src/main/resources
+2015-10-16 17:11:56,553 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-16 17:11:56,553 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/logeswaran/workspace-luna/workout/logUtils/src/test/resources
+2015-10-16 17:12:10,278 [main] INFO  o.a.d.a.ldap.model.ldif.LdifReader - No version information : assuming version: 1
+2015-10-16 17:12:10,279 [main] ERROR o.a.d.a.ldap.model.ldif.LdifReader - ERR_12016_DN_EXPECTED A ldif entry must start with a DN, at line 1
+2015-10-16 17:12:25,275 [Worker-46] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.mindtree.utility:logUtils:REL-1.0.0 @ /home/logeswaran/workspace-luna/workout/logUtils/pom.xml.
+2015-10-16 17:12:26,036 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-16 17:12:26,036 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/logeswaran/workspace-luna/workout/logUtils/src/main/resources
+2015-10-16 17:12:26,037 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-16 17:12:26,037 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/logeswaran/workspace-luna/workout/logUtils/src/test/resources
+2015-10-16 17:12:27,276 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-16 17:12:27,276 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/logeswaran/workspace-luna/workout/logUtils/src/main/resources
+2015-10-16 17:12:27,277 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-16 17:12:27,277 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/logeswaran/workspace-luna/workout/logUtils/src/test/resources
+2015-10-22 14:35:41,382 [Worker-2133] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-22 14:35:41,402 [Worker-2133] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/logeswaran/workspace-luna/workout/logUtils/src/main/resources
+2015-10-22 14:35:41,405 [Worker-2133] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-22 14:35:41,418 [Worker-2133] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/logeswaran/workspace-luna/workout/logUtils/src/test/resources
+2015-10-22 14:35:55,803 [Worker-2126] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-22 14:35:55,804 [Worker-2126] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/logeswaran/workspace-luna/workout/logUtils/src/main/resources
+2015-10-22 14:35:55,805 [Worker-2126] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-22 14:35:55,805 [Worker-2126] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/logeswaran/workspace-luna/workout/logUtils/src/test/resources
+2015-10-22 14:37:17,225 [Worker-2135] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-22 14:37:17,225 [Worker-2135] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/logeswaran/workspace-luna/workout/logUtils/src/main/resources
+2015-10-22 14:37:17,227 [Worker-2135] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-22 14:37:17,227 [Worker-2135] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/logeswaran/workspace-luna/workout/logUtils/src/test/resources
+2015-10-22 14:37:24,992 [Worker-2129] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-22 14:37:24,993 [Worker-2129] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/logeswaran/workspace-luna/workout/logUtils/src/main/resources
+2015-10-22 14:37:24,995 [Worker-2129] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-22 14:37:24,995 [Worker-2129] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/logeswaran/workspace-luna/workout/logUtils/src/test/resources
+2015-10-22 14:37:39,124 [Worker-2135] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-22 14:37:39,125 [Worker-2135] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/logeswaran/workspace-luna/workout/logUtils/src/main/resources
+2015-10-22 14:37:39,127 [Worker-2135] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-22 14:37:39,127 [Worker-2135] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/logeswaran/workspace-luna/workout/logUtils/src/test/resources
+2015-10-22 14:38:56,602 [Worker-2135] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-22 14:38:56,602 [Worker-2135] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/logeswaran/workspace-luna/workout/logUtils/src/main/resources
+2015-10-22 14:38:56,603 [Worker-2135] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-22 14:38:56,603 [Worker-2135] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/logeswaran/workspace-luna/workout/logUtils/src/test/resources
+2015-10-22 14:39:05,420 [Worker-2137] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-22 14:39:05,420 [Worker-2137] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/logeswaran/workspace-luna/workout/logUtils/src/main/resources
+2015-10-22 14:39:05,422 [Worker-2137] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-22 14:39:05,422 [Worker-2137] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/logeswaran/workspace-luna/workout/logUtils/src/test/resources
+2015-10-22 14:39:13,428 [Worker-2136] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-22 14:39:13,428 [Worker-2136] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/logeswaran/workspace-luna/workout/logUtils/src/main/resources
+2015-10-22 14:39:13,430 [Worker-2136] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-22 14:39:13,430 [Worker-2136] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/logeswaran/workspace-luna/workout/logUtils/src/test/resources
+2015-10-22 14:47:38,380 [Worker-2138] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-22 14:47:38,380 [Worker-2138] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/logeswaran/workspace-luna/workout/logUtils/src/main/resources
+2015-10-22 14:47:38,381 [Worker-2138] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-22 14:47:38,381 [Worker-2138] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/logeswaran/workspace-luna/workout/logUtils/src/test/resources
+2015-10-22 14:47:43,935 [Worker-2135] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-22 14:47:43,935 [Worker-2135] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/logeswaran/workspace-luna/workout/logUtils/src/main/resources
+2015-10-22 14:47:43,936 [Worker-2135] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-22 14:47:43,936 [Worker-2135] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/logeswaran/workspace-luna/workout/logUtils/src/test/resources
+2015-10-22 14:50:31,562 [Worker-2141] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-22 14:50:31,562 [Worker-2141] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/logeswaran/workspace-luna/workout/logUtils/src/main/resources
+2015-10-22 14:50:31,563 [Worker-2141] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-22 14:50:31,564 [Worker-2141] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/logeswaran/workspace-luna/workout/logUtils/src/test/resources
+2015-10-22 14:51:25,148 [Worker-2142] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-22 14:51:25,148 [Worker-2142] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/logeswaran/workspace-luna/workout/logUtils/src/main/resources
+2015-10-22 14:51:25,149 [Worker-2142] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-22 14:51:25,149 [Worker-2142] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/logeswaran/workspace-luna/workout/logUtils/src/test/resources
+2015-10-22 14:51:51,650 [Worker-2143] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-22 14:51:51,650 [Worker-2143] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/logeswaran/workspace-luna/workout/logUtils/src/main/resources
+2015-10-22 14:51:51,652 [Worker-2143] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-22 14:51:51,652 [Worker-2143] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/logeswaran/workspace-luna/workout/logUtils/src/test/resources
+2015-10-22 14:52:17,102 [Worker-2139] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-22 14:52:17,103 [Worker-2139] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/logeswaran/workspace-luna/workout/logUtils/src/main/resources
+2015-10-22 14:52:17,104 [Worker-2139] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-22 14:52:17,104 [Worker-2139] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/logeswaran/workspace-luna/workout/logUtils/src/test/resources
+2015-10-22 14:54:23,219 [Worker-2139] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-22 14:54:23,219 [Worker-2139] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/logeswaran/workspace-luna/workout/logUtils/src/main/resources
+2015-10-22 14:54:23,220 [Worker-2139] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-22 14:54:23,220 [Worker-2139] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/logeswaran/workspace-luna/workout/logUtils/src/test/resources
+2015-10-22 15:00:33,688 [Worker-2146] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-22 15:00:33,689 [Worker-2146] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/logeswaran/workspace-luna/workout/logUtils/src/main/resources
+2015-10-22 15:00:33,690 [Worker-2146] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-22 15:00:33,690 [Worker-2146] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/logeswaran/workspace-luna/workout/logUtils/src/test/resources
+2015-10-22 15:01:07,058 [Worker-2150] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-22 15:01:07,058 [Worker-2150] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/logeswaran/workspace-luna/workout/logUtils/src/main/resources
+2015-10-22 15:01:07,059 [Worker-2150] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-22 15:01:07,059 [Worker-2150] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/logeswaran/workspace-luna/workout/logUtils/src/test/resources
+2015-10-22 15:01:40,683 [Worker-2149] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-22 15:01:40,683 [Worker-2149] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/logeswaran/workspace-luna/workout/logUtils/src/main/resources
+2015-10-22 15:01:40,686 [Worker-2149] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-22 15:01:40,687 [Worker-2149] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/logeswaran/workspace-luna/workout/logUtils/src/test/resources
+2015-10-22 15:03:09,752 [Worker-2146] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-22 15:03:09,752 [Worker-2146] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/logeswaran/workspace-luna/workout/logUtils/src/main/resources
+2015-10-22 15:03:09,754 [Worker-2146] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-22 15:03:09,754 [Worker-2146] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/logeswaran/workspace-luna/workout/logUtils/src/test/resources
+2015-10-22 15:03:20,533 [Worker-2152] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-22 15:03:20,533 [Worker-2152] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/logeswaran/workspace-luna/workout/logUtils/src/main/resources
+2015-10-22 15:03:20,535 [Worker-2152] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-22 15:03:20,535 [Worker-2152] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/logeswaran/workspace-luna/workout/logUtils/src/test/resources
+2015-10-22 15:04:13,679 [Worker-2150] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-22 15:04:13,679 [Worker-2150] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/logeswaran/workspace-luna/workout/logUtils/src/main/resources
+2015-10-22 15:04:13,680 [Worker-2150] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-22 15:04:13,680 [Worker-2150] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/logeswaran/workspace-luna/workout/logUtils/src/test/resources
+2015-10-22 15:05:01,964 [Worker-2146] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-22 15:05:01,964 [Worker-2146] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/logeswaran/workspace-luna/workout/logUtils/src/main/resources
+2015-10-22 15:05:01,965 [Worker-2146] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-22 15:05:01,965 [Worker-2146] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/logeswaran/workspace-luna/workout/logUtils/src/test/resources
+2015-10-22 15:06:30,472 [Worker-2150] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-22 15:06:30,472 [Worker-2150] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/logeswaran/workspace-luna/workout/logUtils/src/main/resources
+2015-10-22 15:06:30,486 [Worker-2150] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-22 15:06:30,486 [Worker-2150] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/logeswaran/workspace-luna/workout/logUtils/src/test/resources
+2015-10-22 15:15:50,357 [Worker-2157] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-22 15:15:50,358 [Worker-2157] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/logeswaran/workspace-luna/workout/logUtils/src/main/resources
+2015-10-22 15:15:50,359 [Worker-2157] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-22 15:15:50,359 [Worker-2157] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/logeswaran/workspace-luna/workout/logUtils/src/test/resources
+2015-10-22 15:16:07,298 [Worker-2156] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-22 15:16:07,298 [Worker-2156] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/logeswaran/workspace-luna/workout/logUtils/src/main/resources
+2015-10-22 15:16:07,300 [Worker-2156] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-22 15:16:07,300 [Worker-2156] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/logeswaran/workspace-luna/workout/logUtils/src/test/resources
+2015-10-22 15:17:31,778 [Worker-2156] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-22 15:17:31,778 [Worker-2156] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/logeswaran/workspace-luna/workout/logUtils/src/main/resources
+2015-10-22 15:17:31,779 [Worker-2156] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-22 15:17:31,779 [Worker-2156] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/logeswaran/workspace-luna/workout/logUtils/src/test/resources
+2015-10-22 15:17:39,338 [Worker-2158] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-22 15:17:39,338 [Worker-2158] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/logeswaran/workspace-luna/workout/logUtils/src/main/resources
+2015-10-22 15:17:39,339 [Worker-2158] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-22 15:17:39,339 [Worker-2158] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/logeswaran/workspace-luna/workout/logUtils/src/test/resources
+2015-10-22 15:17:43,912 [Worker-2156] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-22 15:17:43,912 [Worker-2156] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/logeswaran/workspace-luna/workout/logUtils/src/main/resources
+2015-10-22 15:17:43,913 [Worker-2156] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-22 15:17:43,913 [Worker-2156] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/logeswaran/workspace-luna/workout/logUtils/src/test/resources
+2015-10-22 15:19:44,741 [Worker-2160] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-22 15:19:44,741 [Worker-2160] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/logeswaran/workspace-luna/workout/logUtils/src/main/resources
+2015-10-22 15:19:44,742 [Worker-2160] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-22 15:19:44,743 [Worker-2160] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/logeswaran/workspace-luna/workout/logUtils/src/test/resources
+2015-10-22 15:20:03,720 [Worker-2155] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-22 15:20:03,720 [Worker-2155] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/logeswaran/workspace-luna/workout/logUtils/src/main/resources
+2015-10-22 15:20:03,721 [Worker-2155] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-22 15:20:03,721 [Worker-2155] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/logeswaran/workspace-luna/workout/logUtils/src/test/resources
+2015-10-22 15:22:32,668 [Worker-2159] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-22 15:22:32,668 [Worker-2159] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/logeswaran/workspace-luna/workout/logUtils/src/main/resources
+2015-10-22 15:22:32,670 [Worker-2159] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-22 15:22:32,670 [Worker-2159] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/logeswaran/workspace-luna/workout/logUtils/src/test/resources
+2015-10-22 15:22:40,160 [Worker-2156] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-22 15:22:40,160 [Worker-2156] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/logeswaran/workspace-luna/workout/logUtils/src/main/resources
+2015-10-22 15:22:40,162 [Worker-2156] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-22 15:22:40,162 [Worker-2156] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/logeswaran/workspace-luna/workout/logUtils/src/test/resources
+2015-10-22 15:23:30,373 [Worker-2159] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-22 15:23:30,373 [Worker-2159] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/logeswaran/workspace-luna/workout/logUtils/src/main/resources
+2015-10-22 15:23:30,375 [Worker-2159] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-22 15:23:30,375 [Worker-2159] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/logeswaran/workspace-luna/workout/logUtils/src/test/resources
+2015-10-22 15:24:02,088 [Worker-2165] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-22 15:24:02,088 [Worker-2165] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/logeswaran/workspace-luna/workout/logUtils/src/main/resources
+2015-10-22 15:24:02,089 [Worker-2165] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-22 15:24:02,089 [Worker-2165] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/logeswaran/workspace-luna/workout/logUtils/src/test/resources
+2015-10-22 15:27:18,773 [Worker-2168] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-22 15:27:18,773 [Worker-2168] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/logeswaran/workspace-luna/workout/logUtils/src/main/resources
+2015-10-22 15:27:18,775 [Worker-2168] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-22 15:27:18,775 [Worker-2168] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/logeswaran/workspace-luna/workout/logUtils/src/test/resources
+2015-10-22 15:27:46,690 [Worker-2168] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-22 15:27:46,690 [Worker-2168] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/logeswaran/workspace-luna/workout/logUtils/src/main/resources
+2015-10-22 15:27:46,691 [Worker-2168] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-22 15:27:46,691 [Worker-2168] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/logeswaran/workspace-luna/workout/logUtils/src/test/resources
+2015-10-22 15:28:35,059 [Worker-2168] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-22 15:28:35,060 [Worker-2168] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/logeswaran/workspace-luna/workout/logUtils/src/main/resources
+2015-10-22 15:28:35,061 [Worker-2168] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-22 15:28:35,061 [Worker-2168] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/logeswaran/workspace-luna/workout/logUtils/src/test/resources
+2015-10-22 15:28:43,895 [Worker-2164] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-22 15:28:43,895 [Worker-2164] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/logeswaran/workspace-luna/workout/logUtils/src/main/resources
+2015-10-22 15:28:43,896 [Worker-2164] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-22 15:28:43,896 [Worker-2164] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/logeswaran/workspace-luna/workout/logUtils/src/test/resources
+2015-10-22 15:28:55,505 [Worker-2170] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-22 15:28:55,505 [Worker-2170] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/logeswaran/workspace-luna/workout/logUtils/src/main/resources
+2015-10-22 15:28:55,506 [Worker-2170] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-22 15:28:55,506 [Worker-2170] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/logeswaran/workspace-luna/workout/logUtils/src/test/resources
+2015-10-22 15:46:34,049 [Worker-2178] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-22 15:46:34,050 [Worker-2178] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/logeswaran/workspace-luna/workout/logUtils/src/main/resources
+2015-10-22 15:46:34,051 [Worker-2178] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-22 15:46:34,051 [Worker-2178] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/logeswaran/workspace-luna/workout/logUtils/src/test/resources
+2015-10-22 15:46:53,810 [Worker-2171] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-22 15:46:53,810 [Worker-2171] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/logeswaran/workspace-luna/workout/logUtils/src/main/resources
+2015-10-22 15:46:53,812 [Worker-2171] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-22 15:46:53,812 [Worker-2171] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/logeswaran/workspace-luna/workout/logUtils/src/test/resources
+2015-10-22 15:54:32,609 [Worker-2186] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-22 15:54:32,609 [Worker-2186] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/logeswaran/workspace-luna/workout/logUtils/src/main/resources
+2015-10-22 15:54:32,610 [Worker-2186] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-22 15:54:32,610 [Worker-2186] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/logeswaran/workspace-luna/workout/logUtils/src/test/resources
+2015-10-22 15:54:46,606 [Worker-2178] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-22 15:54:46,606 [Worker-2178] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/logeswaran/workspace-luna/workout/logUtils/src/main/resources
+2015-10-22 15:54:46,607 [Worker-2178] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-22 15:54:46,607 [Worker-2178] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/logeswaran/workspace-luna/workout/logUtils/src/test/resources
+2015-10-22 16:03:03,468 [Worker-2190] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-22 16:03:03,468 [Worker-2190] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/logeswaran/workspace-luna/workout/logUtils/src/main/resources
+2015-10-22 16:03:03,469 [Worker-2190] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-22 16:03:03,469 [Worker-2190] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/logeswaran/workspace-luna/workout/logUtils/src/test/resources
+2015-10-22 16:03:08,944 [Worker-2188] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-22 16:03:08,944 [Worker-2188] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/logeswaran/workspace-luna/workout/logUtils/src/main/resources
+2015-10-22 16:03:08,946 [Worker-2188] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-22 16:03:08,946 [Worker-2188] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/logeswaran/workspace-luna/workout/logUtils/src/test/resources
+2015-10-22 16:04:46,327 [Worker-2191] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-22 16:04:46,327 [Worker-2191] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/logeswaran/workspace-luna/workout/logUtils/src/main/resources
+2015-10-22 16:04:46,329 [Worker-2191] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-22 16:04:46,329 [Worker-2191] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/logeswaran/workspace-luna/workout/logUtils/src/test/resources
+2015-10-22 16:07:41,570 [Worker-2191] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-22 16:07:41,570 [Worker-2191] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/logeswaran/workspace-luna/workout/logUtils/src/main/resources
+2015-10-22 16:07:41,572 [Worker-2191] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-22 16:07:41,572 [Worker-2191] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/logeswaran/workspace-luna/workout/logUtils/src/test/resources
+2015-10-22 16:08:32,012 [Worker-2193] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-22 16:08:32,013 [Worker-2193] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/logeswaran/workspace-luna/workout/logUtils/src/main/resources
+2015-10-22 16:08:32,014 [Worker-2193] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-22 16:08:32,015 [Worker-2193] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/logeswaran/workspace-luna/workout/logUtils/src/test/resources
+2015-10-22 16:08:52,019 [Worker-2197] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-22 16:08:52,019 [Worker-2197] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/logeswaran/workspace-luna/workout/logUtils/src/main/resources
+2015-10-22 16:08:52,020 [Worker-2197] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-22 16:08:52,020 [Worker-2197] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/logeswaran/workspace-luna/workout/logUtils/src/test/resources
+2015-10-22 16:09:12,349 [Worker-2193] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-22 16:09:12,350 [Worker-2193] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/logeswaran/workspace-luna/workout/logUtils/src/main/resources
+2015-10-22 16:09:12,351 [Worker-2193] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-22 16:09:12,351 [Worker-2193] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/logeswaran/workspace-luna/workout/logUtils/src/test/resources
+2015-10-22 16:09:45,440 [Worker-2196] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-22 16:09:45,441 [Worker-2196] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/logeswaran/workspace-luna/workout/logUtils/src/main/resources
+2015-10-22 16:09:45,442 [Worker-2196] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-22 16:09:45,442 [Worker-2196] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/logeswaran/workspace-luna/workout/logUtils/src/test/resources
+2015-10-22 16:10:08,008 [Worker-2193] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-22 16:10:08,009 [Worker-2193] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/logeswaran/workspace-luna/workout/logUtils/src/main/resources
+2015-10-22 16:10:08,010 [Worker-2193] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-22 16:10:08,010 [Worker-2193] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/logeswaran/workspace-luna/workout/logUtils/src/test/resources
+2015-10-22 16:20:49,135 [Worker-2196] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-22 16:20:49,135 [Worker-2196] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/logeswaran/workspace-luna/workout/logUtils/src/main/resources
+2015-10-22 16:20:49,136 [Worker-2196] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-22 16:20:49,137 [Worker-2196] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/logeswaran/workspace-luna/workout/logUtils/src/test/resources
+2015-10-22 16:20:51,234 [Worker-2196] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-22 16:20:51,234 [Worker-2196] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/logeswaran/workspace-luna/workout/logUtils/src/main/resources
+2015-10-22 16:20:51,236 [Worker-2196] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-22 16:20:51,236 [Worker-2196] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/logeswaran/workspace-luna/workout/logUtils/src/test/resources
+2015-11-12 18:07:40,965 [Worker-3] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.programcreek:HelloWorld:0.0.1-SNAPSHOT @ /home/logeswaran/workspace-luna/workout/HelloWorld/pom.xml.
+2015-11-12 18:07:44,050 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-11-12 18:07:44,053 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-11-12 18:07:44,099 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-11-12 18:07:44,100 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/logeswaran/workspace-luna/workout/HelloWorld/src/test/resources
+2015-11-12 18:07:44,851 [Worker-2] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.programcreek:HelloWorld:0.0.1-SNAPSHOT @ /home/logeswaran/workspace-luna/workout/HelloWorld/pom.xml.
+2015-11-12 18:07:45,216 [Worker-2] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.mindtree.utility:logUtils:REL-1.0.0 @ /home/logeswaran/workspace-luna/workout/logUtils/pom.xml.
+2015-11-12 18:07:49,294 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-11-12 18:07:49,319 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-11-12 18:07:49,323 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-11-12 18:07:49,327 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/logeswaran/workspace-luna/workout/HelloWorld/src/test/resources
+2015-11-12 18:07:50,038 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-12 18:07:50,038 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/logeswaran/workspace-luna/workout/logUtils/src/main/resources
+2015-11-12 18:07:50,039 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-12 18:07:50,039 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/logeswaran/workspace-luna/workout/logUtils/src/test/resources
+2015-11-12 18:08:31,066 [main] INFO  o.a.d.a.ldap.model.ldif.LdifReader - No version information : assuming version: 1
+2015-11-12 18:08:31,081 [main] ERROR o.a.d.a.ldap.model.ldif.LdifReader - ERR_12016_DN_EXPECTED A ldif entry must start with a DN, at line 1
